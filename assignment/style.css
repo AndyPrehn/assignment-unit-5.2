@@ -9,4 +9,7 @@ main {
 }
 body {
     background-image: url("../assignment/record.png");
+    background-repeat: repeat;
+    margin: 0;
+    padding: 1em;
 }
